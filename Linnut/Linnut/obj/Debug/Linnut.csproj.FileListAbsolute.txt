@@ -1,0 +1,11 @@
+C:\Users\sakus\source\repos\Linnut\Linnut\bin\Debug\Linnut.exe.config
+C:\Users\sakus\source\repos\Linnut\Linnut\bin\Debug\Linnut.exe
+C:\Users\sakus\source\repos\Linnut\Linnut\bin\Debug\Linnut.pdb
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.csproj.AssemblyReference.cache
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.Form1.resources
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.Properties.Resources.resources
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.csproj.GenerateResource.cache
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.csproj.CoreCompileInputs.cache
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.exe
+C:\Users\sakus\source\repos\Linnut\Linnut\obj\Debug\Linnut.pdb
