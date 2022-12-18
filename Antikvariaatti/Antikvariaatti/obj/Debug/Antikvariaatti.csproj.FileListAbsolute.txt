@@ -1,0 +1,11 @@
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\bin\Debug\Antikvariaatti.exe.config
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\bin\Debug\Antikvariaatti.exe
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\bin\Debug\Antikvariaatti.pdb
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.csproj.AssemblyReference.cache
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.Form1.resources
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.Properties.Resources.resources
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.csproj.GenerateResource.cache
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.csproj.CoreCompileInputs.cache
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.exe
+C:\Users\sakus\source\repos\Antikvariaatti\Antikvariaatti\obj\Debug\Antikvariaatti.pdb
