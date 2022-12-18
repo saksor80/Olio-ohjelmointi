@@ -1,0 +1,11 @@
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\bin\Debug\Rivitalo.exe.config
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\bin\Debug\Rivitalo.exe
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\bin\Debug\Rivitalo.pdb
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.csproj.AssemblyReference.cache
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.Form1.resources
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.Properties.Resources.resources
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.csproj.GenerateResource.cache
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.csproj.CoreCompileInputs.cache
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.exe
+C:\Users\sakus\source\repos\Rivitalo\Rivitalo\obj\Debug\Rivitalo.pdb
