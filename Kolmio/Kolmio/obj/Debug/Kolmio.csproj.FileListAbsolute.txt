@@ -1,0 +1,8 @@
+C:\Users\sakus\source\repos\Kolmio\Kolmio\bin\Debug\Kolmio.exe.config
+C:\Users\sakus\source\repos\Kolmio\Kolmio\bin\Debug\Kolmio.exe
+C:\Users\sakus\source\repos\Kolmio\Kolmio\bin\Debug\Kolmio.pdb
+C:\Users\sakus\source\repos\Kolmio\Kolmio\obj\Debug\Kolmio.csproj.AssemblyReference.cache
+C:\Users\sakus\source\repos\Kolmio\Kolmio\obj\Debug\Kolmio.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakus\source\repos\Kolmio\Kolmio\obj\Debug\Kolmio.csproj.CoreCompileInputs.cache
+C:\Users\sakus\source\repos\Kolmio\Kolmio\obj\Debug\Kolmio.exe
+C:\Users\sakus\source\repos\Kolmio\Kolmio\obj\Debug\Kolmio.pdb
